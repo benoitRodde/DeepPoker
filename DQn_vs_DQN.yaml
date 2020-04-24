@@ -1,0 +1,11 @@
+ante: 0
+blind_structure: null
+initial_stack: 2000
+max_round: 1000
+small_blind: 10
+ai_players:
+- name: DeepQLearningAgent1
+  path: /home/benoit/Documents/Projet_IA/Perso/Poker/PokerAI/sample_player/better_than_us_setup1.py
+- name: DeepQLearningAgent
+  path: /home/benoit/Documents/Projet_IA/Perso/Poker/PokerAI/sample_player/better_than_us_setup.py
+
