@@ -95,8 +95,8 @@ Send2Trash==1.5.0
 six==1.13.0
 snowballstemmer==2.0.0
 statsmodels==0.10.1
-tensorboard==1.14.0
-tensorflow==1.14.0
+tensorboard==1.15.2
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
